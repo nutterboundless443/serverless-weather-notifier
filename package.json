@@ -1,0 +1,12 @@
+{
+  "name": "serverless-weather-notifier",
+  "version": "1.0.0",
+  "description": "一个基于无服务器的天气通知系统",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
